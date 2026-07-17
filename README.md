@@ -21,6 +21,8 @@
 <img width="1000" height="600" alt="Screenshot 2026-07-17 161333" src="https://github.com/user-attachments/assets/7c024ad9-9b0a-4080-a8e0-56ade1229f79" />
   **b. Particle Trace**:
 <img width="1000" height="600" alt="1" src="https://github.com/user-attachments/assets/2a3c7038-d34b-40e9-a0c1-2a1322d087e5" />
+  **c. Residuals Plot**: Confirmed convergence of the governing equations.
+<img width="1583" height="829" alt="image" src="https://github.com/user-attachments/assets/7b667fe9-8e70-4ed1-9daf-320d7a5e77a3" />
 
 ---
 
@@ -46,6 +48,12 @@
 - **Water Flow Domain Volume**: 9,600 cm³ (x:0.2 m, y:0.4 m, z:0.12 m)
 - **Mesh**: Total Cells = 4,305,284 / Refined at bucket surfaces.
 
+| Parameter | Simulation Setting |
+| :--- | :--- |
+| **Turbulence Model** | k-omega SST |
+| **Algorithm** | SIMPLE |
+
+*Note: The **k-omega SST** model was selected for its superior ability to predict flow separation and adverse pressure gradients near the bucket/blade surfaces.*
 ---
 
 ### 3. Engineering Insights & Critical Reflection
