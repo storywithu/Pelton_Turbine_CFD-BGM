@@ -4,7 +4,7 @@
 #### Geometry & Specifications
 | Specification | Value | Note |
 | :--- | :--- | :--- |
-| **Runner Radius** | 60 mm | Distance from shaft center to bucket tip |
+| **Runner Disk Radius** | 60 mm | Distance from shaft center to bucket tip |
 | **Bucket Surface Area** | 0.002 $m^2$ (0.001 x 2)| Running fluid contact area |
 | **Bucket Width** | 60.5 mm (30.25 x 2) | Width of flow passage (2 Bucket Holes Area) |
 | **Overall Diameter** | 105.33 mm | Outer diameter of the runner |
