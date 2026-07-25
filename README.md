@@ -68,3 +68,7 @@
   - **Mesh Quality**: The aspect ratio analysis identified high-curvature areas on the bucket surface (pink regions) as the primary challenge for grid uniformity. 
   - **Limitation & Decision**: While further geometric refinement of the bucket surface is theoretically possible to improve grid quality, it was determined that the current resolution sufficiently captures the primary flow phenomena for this study. Given the significant computational cost and time required for geometric optimization, this approach was concluded at the current iteration.
   - **Status**: This project is now officially archived as a comprehensive study of steady-state incompressible flow analysis on a Pelton turbine.
+ 
+### 4. References & Theoretical Foundation/Citation
+* The theoretical framework and fundamental principles governing the fluid dynamics and numerical methodologies in this study were referenced from:
+  * **Versteeg, H. K., & Malalasekera, W. (2007).** *An Introduction to Computational Fluid Dynamics: The Finite Volume Method* (2nd ed.). Pearson Education.
