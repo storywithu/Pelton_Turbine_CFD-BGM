@@ -34,7 +34,7 @@
 ### 1. Project Overview
 - **Objective**: Evaluation of turbine flow characteristics and energy interaction using steady-state CFD analysis.
 - **Methodology**: Incompressible, steady-state flow simulation, enhanced by post-processing particle trajectory and cross-sectional flow field analysis.
-- **Project Period**: 2019.Feb
+- **Project Period**: 2017.Feb
 - **Repository Note**: This project documentation was archived in 2026.
 
 ---
